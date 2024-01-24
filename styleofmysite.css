@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(198, 181, 244);
+}
+#hmain{
+    color: indigo;
+}
+/*div.d1{
+    text-align: right;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(114, 88, 227);
+}*/
+div.d1 h2{
+    text-align: right;
+    color: hotpink;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(54, 25, 179);
+}
+table.t1{
+    margin-left: auto;
+    margin-right: auto;
+}
+button:hover h2{
+    color:mediumpurple;
+}
+button{
+    background-color: darkcyan;
+}
+button:hover{
+    background-color: darkseagreen;
+}
+img{
+    position: absolute;
+    right: 0;
+}
+
